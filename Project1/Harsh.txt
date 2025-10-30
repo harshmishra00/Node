@@ -1,0 +1,7 @@
+Module 5: Node.js Modules
+
+Node uses module system to organize code.
+There are 3 types:
+
+1️⃣ Core Modules:
+    Examples: fs, path, http, events
